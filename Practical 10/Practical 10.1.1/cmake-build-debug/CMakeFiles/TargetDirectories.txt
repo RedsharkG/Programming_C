@@ -1,0 +1,3 @@
+/Users/redshark/Documents/Practical 10/Practical 10.1.1/cmake-build-debug/CMakeFiles/Practical_10_1_1.dir
+/Users/redshark/Documents/Practical 10/Practical 10.1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/redshark/Documents/Practical 10/Practical 10.1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
