@@ -1,0 +1,3 @@
+/Users/redshark/Documents/C Practical 7/Practical 7.3/cmake-build-debug/CMakeFiles/Practical_7_3.dir
+/Users/redshark/Documents/C Practical 7/Practical 7.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/redshark/Documents/C Practical 7/Practical 7.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
